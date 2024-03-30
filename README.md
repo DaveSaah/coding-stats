@@ -1,4 +1,4 @@
-# Coding Statistics
+# Coding Statistics [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
 
 ## Streak
 
